@@ -1,0 +1,47 @@
+body {
+background-color: lightblue;
+}
+h1{
+  font-family:Calibri;
+  color:black;
+  text-align:center;
+  font-size:350%;
+  margin-top: 200px;
+}
+input{
+  width: 8%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: none;
+  background-color: white;
+  color: black;
+  font-size: 85%;
+  position:absolute;
+}
+#myText1{
+  left:30%;
+  top:50%;
+}
+#myText2{
+  left:48%;
+  top:50%;
+}
+#myText3{
+  left:67%;
+  top:50%;
+}
+ button{
+  font-size:85%;
+  background-color:black;
+  color:white;
+  width: 60px;
+  position:absolute;
+ }
+#button1{
+  left:40%;
+  top:51%;
+}
+#button2{
+  left:59%;
+  top:51%;
+}

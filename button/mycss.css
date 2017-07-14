@@ -1,0 +1,21 @@
+body {
+    background-color: lightpink;
+}
+submit{
+  position:absolute;
+  left:65%;
+  top:42%;
+  font-family:helvetica;
+}
+h1{
+  position:absolute;
+  left:40%;
+  top:0%;
+  font-size:500%;
+}
+h3{
+  position:absolute;
+  left:32%;
+  top:37%;
+  font-size:200%;
+}
